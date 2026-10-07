@@ -1,0 +1,53 @@
+{ 
+
+  "name": "CacaoExpress", 
+
+  "short_name": "CacaoEx", 
+
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", 
+
+  "lang": "es-MX", 
+
+  
+
+  "start_url": "/", 
+
+  "scope": "/", 
+
+  "display": "standalone", 
+
+  
+
+  "background_color": "#599681 ", 
+
+  "theme_color": "#E3788C ", 
+
+  
+
+  "icons": [ 
+
+    { 
+
+      "src": "/icons/icon-192x192.png", 
+
+      "sizes": "192x192", 
+
+      "type": "image/png", 
+
+      "purpose": "any" 
+
+    }, 
+
+    { 
+
+      "src": "/icons/icon-512x512.png", 
+
+      "sizes": "512x512", 
+
+      "type": "image/png", 
+
+      "purpose": "any maskable" 
+
+    } 
+
+  ] }
